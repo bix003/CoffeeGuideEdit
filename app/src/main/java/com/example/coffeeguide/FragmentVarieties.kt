@@ -32,85 +32,134 @@ class FragmentVarieties : Fragment() {
         lstVarieties = ArrayList()
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "Espresso",
-                " It gives an instant wake me up and is high in caffeine.",
+                "Mead Raf",
+                "Ingredients",
+                ".Cream",
+                ".Honey",
+                ".Espresso",
+                "",
                 R.drawable.espresso
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "Doppio",
-                "A Doppio is a double espresso in a cup. No other ingredient is added to it.",
+                "Bicerin",
+                "Ingredients",
+                ".Whipped Cream",
+                ".Black Chocolate",
+                ".White Chocolate",
+                ".Espresso",
                 R.drawable.doppio
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "Americano",
-                "It has a high level of caffeine but it is not as strong.",
+                "Raf Coffee",
+                "Ingredients",
+                ".Cream",
+                ".Vanilla",
+                ".Espresso",
+                "",
+
                 R.drawable.americano
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
                 "Cappuccino",
-                " Cappuccino is more of like an indulgence and comfort other than just the usual wake-me-up caffeine shot.",
+                "Ingredients ",
+                ".Milk foam",
+                ".Steamed milk",
+                ".Espresso",
+                "",
                 R.drawable.cappuccino
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "Latte",
-                "Latte is more like the home-made milk coffee that you usually make having very little espresso and more steamed milk and a sweeter of your choice. ",
+                "CafeLatte",
+                " Ingredients",
+                ".Milk foam",
+                ".Steamed milk",
+                ".Espresso",
+                "",
                 R.drawable.latte
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
                 "Mocha",
-                "Mocha is like an Indulgent coffee and somewhere in between a coffee and hot chocolate.",
+                "Ingredients",
+                ".Whipped cream",
+                ".Steamed milk",
+                ".Chocolate",
+                ".Espresso",
                 R.drawable.mocha
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "Cortado",
-                "a cortado is used in the sense of diluting. This is because the milk reduces the acidity of the coffee.",
+                "Vienna Coffee",
+                "Ingredients",
+                ".Whipped cream",
+                ".Espresso",
+                "",
+                "",
                 R.drawable.cortado
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
                 "Flat White",
-                "Flat white is actually cappuccino without the chocolate or foam and simply an espresso drink with steamed milk.",
+                "Ingredients",
+                ".Steamed milk",
+                ".Espresso",
+                "",
+                "",
                 R.drawable.flat
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "Machiato",
-                "Milk added is very less while espresso is comparatively more.",
+                "Macchiato",
+                "Ingredients",
+                ".Milk foam",
+                ".Espresso",
+                "",
+                "",
                 R.drawable.machiato
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
                 "Con Panna",
-                "To recreate your favourite Con Panna, extract a shot of espresso into a cup, then add whipped cream on top.",
+                "Ingredients",
+                ".Whipped cream",
+                ".Espresso",
+                "",
+                "",
                 R.drawable.conpanna
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
-                "AffoGato",
-                " It's usually ordered after dinner as a combination of espresso and ice cream.",
+                "Chocolate Milk",
+                "Ingredients ",
+                ".Milk",
+                ".Cocoa",
+                "",
+                "",
                 R.drawable.affogato
             )
         )
         (lstVarieties as ArrayList<Varieties>).add(
             Varieties(
                 "Irish Coffee",
-                "Irish coffee is  often made with black coffee, whiskey and sugar and topped with cream. ",
+                "Ingredients ",
+                ".Jigger Irish cream liquor",
+                " .hot brewed coffee",
+                " .whipped cream",
+                ".ground nutmeg",
                 R.drawable.irish
             )
         )

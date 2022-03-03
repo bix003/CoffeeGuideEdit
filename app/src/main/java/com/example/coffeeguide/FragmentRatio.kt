@@ -33,6 +33,10 @@ class FragmentRatio : Fragment() {
             Varieties(
                 "Lavazza",
                 "As far as espresso goes, it seems obvious that the best option would come from an Italian brand.",
+                "",
+                "",
+                "",
+                "",
                 R.drawable.lavazza
             )
         )
@@ -40,6 +44,10 @@ class FragmentRatio : Fragment() {
             Varieties(
                 "Bizzy",
                 "It's brewed cold, but its popularity is hot, hot, hot. Bizzy's Coffee sells roasted grounds specifically made for at-home cold brewing.",
+                "",
+                "",
+                "",
+                "",
                 R.drawable.bizzy
             )
         )
@@ -47,6 +55,10 @@ class FragmentRatio : Fragment() {
             Varieties(
                 "La Colombe",
                 "One of the most popular brands at the moment, La Colombe is reputable for their high-quality products",
+                "",
+                "",
+                "",
+                "",
                 R.drawable.colombe
             )
         )
@@ -54,6 +66,10 @@ class FragmentRatio : Fragment() {
             Varieties(
                 "Oakland",
                 "There's something to be said about keeping it simple with a basic cup of black coffee. But sometimes the mood calls for a novelty flavored latte.",
+                "",
+                "",
+                "",
+                "",
                 R.drawable.land
             )
         )
@@ -61,6 +77,10 @@ class FragmentRatio : Fragment() {
             Varieties(
                 "Stump Town",
                 " they provide customers the best of the best in an ethical and sustainable manner.",
+                "",
+                "",
+                "",
+                "",
                 R.drawable.stumptown
             )
         )
@@ -68,6 +88,10 @@ class FragmentRatio : Fragment() {
             Varieties(
                 "Mount Hagen",
                 "Mount Hagen's is widely regarded as the best available. It's organic, fair trade, and good enough to convert even the most staunch anti-instant folk.",
+                "",
+                "",
+                "",
+                "",
                 R.drawable.mounthagen
             )
         )

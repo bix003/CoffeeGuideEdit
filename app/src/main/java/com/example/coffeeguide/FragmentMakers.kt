@@ -30,11 +30,71 @@ class FragmentMakers : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         lstMakers = ArrayList()
-        (lstMakers as ArrayList<Varieties>).add(Varieties("KenWood CMM 10.000BM", "KES 6,495", R.drawable.kenwood))
-        (lstMakers as ArrayList<Varieties>).add(Varieties("Von VSCD 12MVX 12cup", "KES 5,750", R.drawable.vonvsd))
-        (lstMakers as ArrayList<Varieties>).add(Varieties("Dolce Gusto Nescafe Mini", "KES 13,295", R.drawable.dolce))
-        (lstMakers as ArrayList<Varieties>).add(Varieties("Delonghi ICM 2.1WH Drip", "KES 6,495", R.drawable.delonghi))
-        (lstMakers as ArrayList<Varieties>).add(Varieties("Delonghi ICM 2.BWH Drip", "KES 6,995", R.drawable.dripcoffee))
-        (lstMakers as ArrayList<Varieties>).add(Varieties("Von VSCD 12MVX Mini 4cup ", "KES 3,490", R.drawable.pbrand))
+        (lstMakers as ArrayList<Varieties>).add(
+            Varieties(
+                "KenWood CMM 10.000BM",
+                "KES 6,495",
+                "",
+                "",
+                "",
+                "",
+                R.drawable.kenwood
+            )
+        )
+        (lstMakers as ArrayList<Varieties>).add(
+            Varieties(
+                "Von VSCD 12MVX 12cup",
+                "KES 5,750",
+                "",
+                "",
+                "",
+                "",
+                R.drawable.vonvsd
+            )
+        )
+        (lstMakers as ArrayList<Varieties>).add(
+            Varieties(
+                "Dolce Gusto Nescafe Mini",
+                "KES 13,295",
+                "",
+                "",
+                "",
+                "",
+                R.drawable.dolce
+            )
+        )
+        (lstMakers as ArrayList<Varieties>).add(
+            Varieties(
+                "Delonghi ICM 2.1WH Drip",
+                "KES 6,495",
+                "",
+                "",
+                "",
+                "",
+                R.drawable.delonghi
+            )
+        )
+        (lstMakers as ArrayList<Varieties>).add(
+            Varieties(
+                "Delonghi ICM 2.BWH Drip",
+                "KES 6,995",
+                "",
+                "",
+                "",
+                "",
+                R.drawable.dripcoffee
+            )
+        )
+        (lstMakers as ArrayList<Varieties>).add(
+            Varieties(
+                "Von VSCD 12MVX Mini 4cup ",
+                "KES 3,490",
+                "",
+                "",
+                "",
+                "",
+                R.drawable.pbrand
+            )
+        )
     }
 }
